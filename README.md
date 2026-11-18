@@ -35,7 +35,7 @@ claude
 <summary>Without GitHub CLI</summary>
 
 1. Fork [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) on GitHub (click the Fork button)
-2. `git clone https://github.com/<your-username>/nanoclaw.git`
+2. `git clone https://github.com/{your-username}/nanoclaw.git`
 3. `cd nanoclaw`
 4. `claude`
 
